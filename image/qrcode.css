@@ -1,0 +1,35 @@
+body{
+    background-color: #647979;
+}
+.allsection{
+    width: 290px;
+    height: 460px;
+    background-color: white;
+    padding: 20px 20px;
+    margin: auto;
+    border-radius: 20px;
+    margin-top: 80px;
+
+}
+
+img{
+    width: 290px;
+    margin: auto;
+    border-radius: 10px;
+
+}
+.head{
+    color: black;
+    text-align: center;
+    font-weight: medium;
+    font-size: 25px;
+    line-height: 25px; 
+}
+.text{
+    color: rgb(207, 174, 174);
+    text-align: center;
+    font-weight: medium;
+    font-size: medium;
+    
+
+}

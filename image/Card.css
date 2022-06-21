@@ -1,0 +1,115 @@
+body{
+    background-color: aliceblue;
+}
+.card{
+     width: 270px;
+     height: 400px;
+     background-color: white;
+     /* padding: 20px 20px; */
+     margin: auto;
+     margin-top: 80px;
+     box-shadow: 0 0 0.9rem gray;
+     /* text-align: center; */
+}
+.payment{
+    color: red;
+    text-align: center;
+    /* line-height: 4px; */
+    font-weight: bold;
+    font-size: large;
+}
+.payment2{
+    color: red;
+    text-align: center;
+    font-size: small;
+    font-weight: 100;
+    margin-top: -25px;
+}
+.text{
+    text-align: center;
+    color: rgb(63, 44, 44);
+    background-color: gray;
+    width: 270px;
+    height: 60px;
+    /* margin-left: -20px; */
+    /* margin-right: -40px; */
+
+}
+.text2{
+       padding-top: 20px;
+    
+}
+.list{
+    text-align: center;
+    /* padding-top: -3px; */
+    /* padding: 3px auto; */
+    background-color: red;
+    width: 270px;
+    height: 245px;
+    /* margin: auto 10px; */
+    /* padding: auto 10px; */
+    
+    
+    
+    
+    
+    
+}
+.disk{
+    color: white;
+    /* text-align: center; */
+    padding-top: 20px;
+    line-height: 30px;
+    
+    
+    /* font-weight: medium; */
+    /* font-size: medium; */
+}
+.email{
+       color: white;
+       text-align: center;
+       line-height: 30px;
+       /* margin: 5px 5px; */
+}
+.band{
+      color: white;
+      text-align: center;
+      line-height: 30px;
+      /* margin: 5px 5px; */
+}
+.main{
+     color: white;
+     text-align: center;
+     line-height: 30px;
+     /* margin: 5px 5px; */
+}
+.sub{
+     color: white;
+     text-align: center;
+     line-height: 30px;
+     /* margin: 5px 5px; */
+}
+.sign{
+    background-color: white;
+    border: 2px  rgb(184, 172, 172);
+    color: rgb(207, 55, 55);
+    cursor: pointer;
+    text-align: center;
+    width: 90px;
+    height: 25px;
+    margin-right: 40px;
+    margin-left: 40px;
+    padding: 20px -5px;
+}
+
+ul{
+    list-style: none;
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,59 @@
+body{
+    background-color: white;
+}
+.pic{
+    width: 100px;
+    height: 100px;
+    border-radius: 30px;
+    border: 3px solid rgb(70, 33, 33);
+    overflow: hidden;
+    background-color: gray;
+    margin: 15px auto;
+    box-shadow: 0 0.5rem goldenrod;
+}
+.container{
+      width: 700px;
+      /* height: 500px; */
+      margin: 40px auto;
+      padding: 10px 20px;
+      /* padding-bottom: 20px; */
+      background-color: white;
+      text-align: center;
+      box-shadow: 0 0.5rem goldenrod;
+      border: none;
+      border-radius: 10px;
+      
+}
+.pic img{
+    width: 100%;
+    
+}
+.general{
+     color: rgb(122, 107, 107);
+     box-shadow: 0 0 0.5 rgb(196, 137, 19);
+     border: none;
+}
+.name{
+    color: blueviolet;
+    letter-spacing: 2px;
+    }
+.course{
+        color: rgb(226, 160, 36);
+    }
+.lorem{
+    line-height: 30px;
+}
+.title{
+    text-align: center;
+    line-height: 10px;
+    /* padding: auto 100px; */
+}
+/* .everybody{ */
+    /* margin: 100px auto; */
+/* } */
+/* .section{ */
+    /* padding: 100px auto; */
+/* } */
+
+
+
